@@ -1,0 +1,38 @@
+date => this cmd is used to print current date
+
+cal => this cmd is used to print calender
+
+mkdir => this cmd is used to create empty dir.
+
+rmdir => this cmd is used to del dir.
+
+touch => this cmd is used to create file
+
+rm -rf file => this cmd is used to delete file recursivally and forcefully
+
+cat => this cmd is used to print file content.
+
+cat > => this cmd is used to create file with content.
+
+top/htop => this is a interactive utility to examine resources.
+
+curl  => this cmd is used to donwload data file software or perform operations on terminal or make request
+
+wget => this is also used to download resources.
+
+ssh user@host => this cmd is used to connect remote server.
+
+
+ip => this cmd is used to show ip
+
+ipconfig => this cmd is used to list ips
+
+ip addr => this cmd is used to list ip
+
+grep => this cmd is used to pattern
+
+ip addr | grep net => this cmd is combination of two cmds one is for list ip address and one is for search. this cmd will show all net ip addresses.
+
+yum list installed => this cmd is used to list installed software.
+
+ping host => this cmd is used to check network connectivite
